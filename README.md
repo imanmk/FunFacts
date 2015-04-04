@@ -1,2 +1,2 @@
 # FunFacts
-FunFacts iOS
+FunFacts App (iOS)
